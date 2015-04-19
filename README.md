@@ -13,9 +13,11 @@ Swift implementation of the web design ideas in Matt Smith's [Float Label Design
 
 ### Setup with Interface Builder ###
 - Add a UITextField or UITextView to your NIB and set the custom class to `UIFloatLabelTextField`.  
+
 ![Custom Class](http://share.hellosummit.com/image/031c203y1N2b/screen1.png)
 
 - Under the Attributes for the selected Text Field, you can modify the Placeholder. This is the text that will float above any text that the user enters.  
+
 ![Placeholder Text](http://share.hellosummit.com/image/3H2g383z0s3R/screen2.png)
 
 ### Setup with Code ###
