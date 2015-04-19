@@ -11,6 +11,8 @@ Swift implementation of the web design ideas in Matt Smith's [Float Label Design
 
 ## Installation ##
 
+#### Cocoapods coming soon ####
+
 ### Setup with Interface Builder ###
 - Add a UITextField or UITextView to your NIB and set the custom class to `UIFloatLabelTextField`.  
 
