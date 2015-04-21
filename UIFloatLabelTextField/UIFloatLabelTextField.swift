@@ -132,7 +132,7 @@ class UIFloatLabelTextField: UITextField {
     }
   }
   
-  // - Drawing & Animations
+  // Drawing & Animations
   override func layoutSubviews() {
     super.layoutSubviews()
     if (isFirstResponder() && !hasText()) {

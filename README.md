@@ -36,6 +36,6 @@ MIT. Use it all you want in any project you want!
 ## Contact ##
 Any questions or comments, let me know!
 
-* Email: justin [at] hellosummit.com
+* Email: wattjustin [at] gmail.com
 * Web: [wattjustin.com](http://wattjustin.com)
 * Twitter: [@just_watt](http://www.twitter.com/just_watt)
